@@ -1,2 +1,2 @@
 # CSS-Gradient-Generator
-Generates gradients for use with CSS
+Generates gradients for use with CSS (color picker)
